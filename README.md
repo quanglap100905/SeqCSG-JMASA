@@ -6,7 +6,7 @@ This repository implements a **JMASA** (Joint Multimodal Aspect Sentiment Analys
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/quanglap100905/SeqCSG-JMASA.git](https://github.com/quanglap100905/SeqCSG-JMASA.git)
+git clone https://github.com/quanglap100905/SeqCSG-JMASA.git
 cd SeqCSG-JMASA
 
 # 2. Install dependencies
